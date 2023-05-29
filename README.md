@@ -6,4 +6,4 @@ You can directly preview the app here: https://navigation-and-themes.vercel.app/
 
 ## Quick Start
 
-You can get started by cloning this repository and running 'npm install' in the directory, then ''npm run dev'' to run it on localhost. If you want to use the component outside of the provided page.tsx you can do  so by importing 'Navigation' from components
+You can get started by cloning this repository and running `npm install` in the directory, then `npm run dev` to run it on localhost. If you want to use the component outside of the provided page.tsx you can do  so by importing `Navigation` from `components/navigation`.
